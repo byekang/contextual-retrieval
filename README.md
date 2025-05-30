@@ -15,4 +15,13 @@ Contextual Retrieval을 적용했을 경우에 검색 결과에 어떻게 영향
 
 [Contextual Retrieval Test 동영상](https://byekang-share-materials.s3.ap-northeast-2.amazonaws.com/github-share-files/Demo_HOL_20241110.mp4)
 
+이 Resitory에서는 Contextual Retrieval을 적용하지 않았을 때와, 적용했을 때에 대해서 2가지 경우에 대해서 테스트를 수행하는 예제 파일을 공유합니다.
 
+- Contextual Retrieval을 적용하지 않았을 경우의 데모
+- Contextual Retrieval을 적용했을 경우의 데모
+
+Contextual Retrieval을 AWS Bedrock 환경에서 사용하고자 하는 경우에는 아래 블로그의 내용을 참조해 보시면 좋습니다.
+
+[Amazon Bedrock기반에서 Contextual Retrieval 활용한 검색 성능 향상 및 실용적 구성 방안](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-contextual-retrieval/)
+
+감사합니다.
