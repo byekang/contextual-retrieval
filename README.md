@@ -18,7 +18,7 @@ Contextual Retrieval을 적용했을 경우에 검색 결과에 어떻게 영향
 이 Resitory에서는 Contextual Retrieval을 적용하지 않았을 때와, 적용했을 때에 대해서 2가지 경우에 대해서 테스트를 수행하는 예제 파일을 공유합니다.
 
 - [Contextual Retrieval을 적용하지 않았을 경우의 데모](https://github.com/byekang/contextual-retrieval/blob/main/30.Bedrock-RAG-without-CR_s20241111.ipynb)
-- [Contextual Retrieval을 적용했을 경우의 데모](https://github.com/byekang/contextual-retrieval/blob/main/30.Bedrock-RAG-with-CR_s20241111.pynb)
+- [Contextual Retrieval을 적용했을 경우의 데모](https://github.com/byekang/contextual-retrieval/blob/main/30.Bedrock-RAG-with-CR_s20241111.ipynb)
 
 Contextual Retrieval을 AWS Bedrock 환경에서 사용하고자 하는 경우에는 아래 블로그의 내용을 참조해 보시면 좋습니다.
 
