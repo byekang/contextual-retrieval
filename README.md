@@ -1,4 +1,4 @@
-# contextual-retrieval
+# Contextual Retrieval
 이 Repository는 Anthropic의 Contextual retrieval에 대해서 구현한 내용을 소개하고 있습니다.
 
 Anthropic의 [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)은 기존 RAG(Retrieval-Augmented Generation) 방식의 한계를 극복하기 위해 고안된 검색 개선 기술입니다. 전통적인 RAG는 문서를 작은 청크로 나누고 임베딩하지만, 이 과정에서 각 청크가 원래 문서의 맥락을 잃어버려 검색 정확도가 떨어지는 문제가 있었습니다.
