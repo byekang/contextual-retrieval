@@ -1,7 +1,7 @@
 # contextual-retrieval
 이 Repository는 Anthropic의 Contextual retrieval에 대해서 구현한 내용을 소개하고 있습니다.
 
-Anthropic의 [Contextual Retrieval](https://console.aws.amazon.com/rds/home)은 기존 RAG(Retrieval-Augmented Generation) 방식의 한계를 극복하기 위해 고안된 검색 개선 기술입니다. 전통적인 RAG는 문서를 작은 청크로 나누고 임베딩하지만, 이 과정에서 각 청크가 원래 문서의 맥락을 잃어버려 검색 정확도가 떨어지는 문제가 있었습니다.
+Anthropic의 [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)은 기존 RAG(Retrieval-Augmented Generation) 방식의 한계를 극복하기 위해 고안된 검색 개선 기술입니다. 전통적인 RAG는 문서를 작은 청크로 나누고 임베딩하지만, 이 과정에서 각 청크가 원래 문서의 맥락을 잃어버려 검색 정확도가 떨어지는 문제가 있었습니다.
 Contextual Retrieval은 이 문제를 해결하기 위해 각 청크에 간결한 설명(문맥)을 추가한 뒤, 이를 임베딩하거나 BM25 인덱스를 생성하는 두 가지 핵심 기술을 사용합니다.
 
 - Contextual Embeddings: 각 청크 앞에 해당 청크가 어떤 맥락에서 등장하는지 설명하는 텍스트(문맥)를 추가해 임베딩합니다.
