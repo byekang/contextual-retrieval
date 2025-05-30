@@ -13,6 +13,9 @@ Contextual Retrieval은 이 문제를 해결하기 위해 각 청크에 간결�
 Contextual Retrieval을 적용했을 경우에 검색 결과에 어떻게 영향을 미치는 지에 대해서 테스트를 수행하였습니다.
 아래 동여상을 통해서 해당 내용을 확인해 볼 수 있습니다.
 
-[Watch the video](https://byekang-share-materials.s3.ap-northeast-2.amazonaws.com/github-share-files/Demo_HOL_20241110.mp4)
+<video width="640" height="360" controls>
+  <source src="https://byekang-share-materials.s3.ap-northeast-2.amazonaws.com/github-share-files/Demo_HOL_20241110.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
